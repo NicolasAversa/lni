@@ -17,8 +17,8 @@ void loop()
     // 2. Calcular distancia en centímetros (0 a 255 cm)
     int cms = pulseIn(ECHO, HIGH) * 0.034 / 2;
 
-    // 3. Mapear: 0 a 255 cm -> 0 a 5000 milisegundos (0 a 5 segundos)
-    long velocidad = map(cms, 0, 255, 0, 5000);
+    // 3. Mapear: 0 a 255 cm -> 0 a 500 milisegundos (0 a 5 segundos)
+    long velocidad = map(cms, 0, 255, 0, 500);
 
     // 4. Parpadeo del LED (Cerca = Delay corto = Parpadeo rápido)
     digitalWrite(LED, HIGH);
