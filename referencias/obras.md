@@ -1,0 +1,14 @@
+| Título | Categoría | URL | Descripción | Autor |
+| --- | --- | --- | --- | --- |
+| Cabbage flower as an antenna | Interactive Bio-Art | https://www.instagram.com/reel/Dd0_y9bOkzm | Demonstration of an ornamental cabbage flower functioning as a capacitive sensor/antenna to control sound when touched. | Can Touch This |
+| Nature Station Lab | Interactive Sound Installation | https://www.instagram.com/reel/DctGu_xsxe6 | Interactive sound installation detecting hand proximity to flowers and translating biofeedback into dynamic sound. | Can Touch This |
+| Kaleidoptera: The Spine | Kinetic Sculpture | https://www.instagram.com/reel/DdHzpeSKqqh | Kinetic robotic wall installation featuring undulating motorized wing panels with an interactive moss base interface. | Gadi Sassoon |
+| In Cloud Light III | Kinetic Sculpture | https://www.youtube.com/watch?v=JTWqo5H-aig | Outdoor wind-powered kinetic sculpture by Anthony Howe featuring rotating curved metal arms reflecting light. | Anthony Howe |
+| Escultura cinética: simulación de movimiento de alas | Kinetic Sculpture | https://www.youtube.com/watch?v=soqJmNRfHaA | Wooden kinetic sculpture by Tomás Castillo Fernández simulating wing flapping through a gear and chain mechanism. | Tomás Castillo Fernández |
+| Diseñando nuevas formas de vida (TEDxMexicoCity) | Artist Talk / Bio-Art | http://www.youtube.com/watch?v=Mk-UOJ2qguI | TEDx talk by Gilberto Esparza discussing bio-robotic hybrid organisms and environmental parasites. | Gilberto Esparza |
+| Plantas autofotosintéticas | Bio-Art / Ecological Art | http://www.youtube.com/watch?v=Ufwv370OgoY | Overview of the autophotosynthetic system using microbial fuel cells to convert wastewater into electricity and light. | Gilberto Esparza |
+| Sobre Plantas nómadas | Robotic Art / Ecological Art | http://www.youtube.com/watch?v=APJlKTVHC3Q | Artist interview at LABoral Centro de Arte explaining the bio-robotic symbiotic organism designed to clean contaminated water. | Gilberto Esparza |
+| Moving sculpture | Kinetic Sculpture | http://www.youtube.com/watch?v=bPfn01Ndc1g | TED Talk by Arthur Ganson showcasing and demonstrating his intricate kinetic wire and gear sculptures. | Arthur Ganson |
+| Sculpteur Jean Tinguely et le mouvement, les Méta-Matics, Méta-Art | Kinetic Sculpture | http://www.youtube.com/watch?v=ZGEaMzVg2WM | Archival footage exploring Jean Tinguely's mechanical kinetic reliefs and Méta-Matic drawing machines. | Jean Tinguely |
+| Una Lumino (2008) | Kinetic Sculpture | http://www.youtube.com/watch?v=EHo-AzZVmUE | Video of the kinetic sculpture featuring delicate motorized translucent petals opening, closing, and emitting light in biological rhythms. | U-Ram Choe |
+| Self-Taught Robotics Whiz | Kinetic Sculpture | http://www.youtube.com/watch?v=dYdOuFEvHzM | Comprehensive documentary profile exploring Choe U-Ram's workshop, kinetic engineering, and mechanical lifeforms. | U-Ram Choe |
