@@ -32,7 +32,7 @@ Implementar la propuesta diseñada mediante el entorno Arduino, utilizando:
     - Registro audiovisual: link a video (máximo 2 min) donde se observe claramente la interacción del usuario poniendo el cuerpo y la respuesta del dispositivo.
     - Nómina de integrantes (foto y nombre).
 
-[Visualizor](https://ochafik.com/openscad2/)
+[Visualizador](https://ochafik.com/openscad2/)
 
 <details>
 
